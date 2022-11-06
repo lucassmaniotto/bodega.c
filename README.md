@@ -1,8 +1,20 @@
-# O Sistema da Bodega
+# Sistema de Bodega - UFFS Chapecó
+
+Trabalho Final desenvolvido na 2º Fase em linguagem C durante curso de CC da UFFS Chapecó, utilizando conceitos de TAD, ponteiros e listas ordenadas.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Bodega**
+| :label: Tecnologias | c, tad
+|  🖥  Curso     | https://cc.uffs.edu.br
+
+## Detalhes do projeto
+
+### O Sistema da Bodega
 
 Você foi contratado pelo seu Joãozin da Bodega para criar um sistema com o qual ele possa controlar alguns detalhes do seu business. Seu Joãozin já definiu o que é mais importante, para que você comece a criar a estrutura do sistema para a melhor bodega do sul do país:
 
-## Organização do código:
+#### Organização do código:
 **O programa deverá se chamar Bodega**
 1. Crie uma estrutura Empresa que contém o nome e o CNPJ da bodega.
 2. Crie outra chamada Bebida com os seguintes atributos: código, o nome da bebida, o conteúdo líquido em ml, o preço de venda e a quantidade em estoque.  A função compraBebida, que atualiza o estoque da bebida em questão, e  a vendeBebida, que valida se a bebida em questão pode ser vendida para um cliente com idade (+ de 18 anos) e, caso afirmativo, retira o número de unidades do estoque.
@@ -30,7 +42,7 @@ Você foi contratado pelo seu Joãozin da Bodega para criar um sistema com o qua
 
 **OBS: Considere que todos os dados alfanuméricos (strings) não serão compostos, ou seja, sem espaço. Assim, você poderá utilizar o scanf(“%s”, ).**
 
-## Avaliação:
+#### Avaliação:
 
 * A avaliação será realizada considerando a apresentação do código e as funcionalidades implementadas.
 * O trabalho pode ser realizado em dupla, porém, a avaliação considera não só o resultado final mas a participação e engajamento da equipe no desenvolvimento. Assim, os membros da dupla podem ter notas distintas.
