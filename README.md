@@ -4,7 +4,7 @@ Trabalho Final desenvolvido na 2º Fase em linguagem C durante curso de CC da UF
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Bodega**
+| :sparkles: Nome        | **Bodega.c**
 | :label: Tecnologias | c, tad
 |  🖥  Curso     | https://cc.uffs.edu.br
 
